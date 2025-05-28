@@ -28,17 +28,17 @@ const router = createRouter({
 })
 
 let isScrollingUp = (elem_id) => {
-  const elem = document.querySelector(elem_id)
-  const toScrollPos = elem.getBoundingClientRect().top
+    const elem = document.querySelector(elem_id)
+    const toScrollPos = elem.getBoundingClientRect().top
 
-  return toScrollPos < 0
+    return toScrollPos < 0
 }
 
 let getOffsetHeight = () => {
-  const nav = document.querySelector('nav')
-  const navHeight = nav.getBoundingClientRect().height + 25
+    const nav = document.querySelector('nav')
+    const navHeight = nav.getBoundingClientRect().height + 25
 
-  return navHeight
+    return navHeight
 }
 
 export default router
