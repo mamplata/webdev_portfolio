@@ -22,9 +22,9 @@ const splashScreen = true // recommended: for best behavior after refresh
 const greeting = {
     intro: "Hello 👋, my name is",
     name: "Kyle Deejay C. Mamplata",
-    message: "I’m a full-stack developer with a Bachelor’s degree in Information Technology, currently serving as an IT Programming Intern at the University of Cabuyao. Alongside a fellow developer, I developed ITAP—a student gate entrance and attendance system powered by NFC technology. I am also pursuing a TESDA Computer System Servicing (CSS) certification while continuously expanding my technical skills through hands-on projects and self-driven learning.",
+    message: "Aspiring Backend Developer & Database Administrator focused on building full-stack web applications and managing structured data. Skilled in Laravel, Vue.js, Java, and SQL, with hands-on experience in API development, frontend integration, and database design. Passionate about clean code, data reliability, and continuous learning.",
     basedLocation: "Cabuyao, Laguna, Philippines",
-    resumeLink: "https://drive.google.com/file/d/18PepbgD2pkcOqVDPlGK_Ek8dHdiPebMk/view?usp=sharing", // recommended: google drive file share link (change to "anyone on the internet can view")
+    resumeLink: "https://drive.google.com/file/d/1OOgYfDJ4_A_wGbwQ8BFU1Oq9ahYLRPWV/view?usp=sharing", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
         link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
         custom: true // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
@@ -41,13 +41,13 @@ const socialMediaLinks = {
 // --- 😎 About Section ---
 const about = {
     autobiography: [
-        "I’m a full-stack developer who enjoys solving problems and building user-focused solutions. With a background in Information Technology and a certification in computer system servicing in progress, I’ve developed my skills through hands - on projects and internships.I work well with teams, communicate clearly, and stay focused on improving my skills and building reliable software."
+        "I am an aspiring backend developer and database administrator with experience in full-stack development using Laravel, Vue.js, Java, and SQL-based systems. During my internship at Pamantasan ng Cabuyao, I contributed to both frontend interfaces and backend API development, including database design and optimization. I hold a TESDA NC II certification in Computer System Servicing and am passionate about building reliable, data-driven systems."
     ], // Separated items are paragraphs
     techStack: [
         "PHP",
         "Java",
         "Python",
-        "JavaScript",
+        "JS",
         "Vue.js",
         "MySQL",
         "Express.js",
