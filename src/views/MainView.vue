@@ -40,6 +40,8 @@
 						<AboutView :content="portfolio.about" :transitions="portfolio.transitions" />
 
 						<ExperienceView :content="portfolio.experiences" :transitions="portfolio.transitions" />
+						
+						<WorkView :content="portfolio.works" :transitions="portfolio.transitions" />
 
 						<ContactView :content="portfolio.contact" :transitions="portfolio.transitions" />
 					</div>

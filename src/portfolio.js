@@ -105,24 +105,56 @@ const experiences = [
             "Bootstrap",
             "Leaflet.js",
             "Weather API",
+        ],
+        links: [
+          {
+            linkName: "User Manual",
+            linkSource: "https://drive.google.com/file/d/1rrAnNlee9LOPIDmi49w5lxd8RCnxGT99/view?usp=drivesdk"
+          },
+          {
+            linkName: "Github Repo",
+            linkSource: "https://github.com/mamplata/agroconnect_app"
+          }
         ]
     }
 ]
 
 // --- 💻 Work Section ---
 const works = [
-    {
-        projectName: "EdTech AI Tool",
-        yearCompleted: "2024",
-        description: "Developed an educational tool in collaboration with a peer, to rethink the college student and AI interaction. With a core principle to enhance learning and personal growth. Responsible for UI, UX, and DB management with ongoing goal to complete version 1.0 in December 2024.",
-        techStack: "Python, Vue.js",
-        links: [],
-        imageLink: "images/version_edtech_pic.png",
-        alignLeft: false
-    },
+  {
+    projectName: "Pizza Ordering System",
+    yearCompleted: "2023",
+    description:
+      "A desktop application for managing pizza orders, built using Java Swing. Features include menu selection, order summary, and transaction recording.",
+    techStack: "Java (Swing), Eclipse",
+    links: [],
+    imageLink1: "images/pizza1.jpeg",
+    imageLink2: "images/pizza2.jpeg",
+  },
+  {
+    projectName: "Agroconnect V2",
+    yearCompleted: "2024",
+    description:
+      "An improved version of my agriculture information system. Includes updated UI, user roles, weather API integration, and optimized database design.",
+    techStack: "Laravel Breeze, Blade, MySQL, Weather API, Bootstrap",
+    links: [],
+    imageLink1: "images/agroconnectv2.png",
+    imageLink2: "images/agroconnectv2_1.png",
+  },
+  {
+    projectName: "Library Management System",
+    yearCompleted: "2025",
+    description:
+      "A web-based system for managing books, including CRUD operations, borrowing, and returning. Built with Django REST framework and a Bootstrap frontend.",
+    techStack: "Python, Django REST API, MySQL, Bootstrap",
+    links: [],
+    imageLink1: "images/library1.png",
+    imageLink2: "images/library2.png",
+  },
 ]
 
-const archiveLink = "https://github.com/feifyKike?tab=repositories"
+
+const archiveLink = "https://github.com/mamplata?tab=repositories"
 
 // --- 📭 Contact Section ---
 // 2 Options available - Choose 1
