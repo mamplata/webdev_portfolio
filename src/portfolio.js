@@ -66,7 +66,7 @@ const experiences = [
             name: "University of Cabuyao",
             link: "https://pnc.edu.ph/"
         },
-        duration: "Jan 2025- April 2025",
+        duration: "Jan 2025 - April 2025",
         bulletPoints: [
             "Developed the ITAP system using Laravel (Breeze), Vue.js, Node.js, and MySQL.",
             "Worked in an Agile environment with weekly stand-ups, sprint planning, and regular presentations of progress.",
@@ -146,7 +146,7 @@ const works = [
     yearCompleted: "2025",
     description:
       "A web-based system for managing books, including CRUD operations, borrowing, and returning. Built with Django REST framework and a Bootstrap frontend.",
-    techStack: "Python, Django REST API, MySQL, Bootstrap",
+    techStack: "Python, Django REST API, MySQL, Vue.js, Tailwind",
     links: [],
     imageLink1: "images/library1.png",
     imageLink2: "images/library2.png",
