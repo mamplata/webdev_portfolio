@@ -61,6 +61,32 @@ const about = {
 // --- 🛡️ Experience Section ---
 const experiences = [
     {
+        position: "Junior System Developer",
+        company: {
+            name: "Uplink Integrated Solution Inc.",
+            link: "https://www.facebook.com/uplinkofficial/"
+        },
+        duration: "October 2025 - Present",
+        bulletPoints: [
+            "Develop and maintain a production healthcare information system used across multiple health facilities in Muntinlupa City.",
+            "Build and enhance backend services for patient profiling, consultation workflows, and medicine inventory management.",
+            "Implement modular healthcare program features such as animal bite treatment and palliative care for the version 2 upgrade.",
+            "Ensure business logic aligns with real-world clinical and operational processes while improving data consistency across modules.",
+            "Handle API integrations and external system connectivity, including PhilHealth services and HCPN referral workflows."
+        ],
+        hashtags: [
+            "Laravel",
+            "PHP",
+            "MySQL",
+            "API",
+            "Jquery",
+            "CodeIgniter",
+            "Healthcare",
+            "SystemIntegration",
+            "SOAP/XML"
+        ]
+    },
+    {
         position: "Programming Intern",
         company: {
             name: "University of Cabuyao",

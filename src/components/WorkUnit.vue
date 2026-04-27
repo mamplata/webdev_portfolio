@@ -1,15 +1,9 @@
 <template>
-  <div
-    :class="[
-      'flex flex-col transition-opacity motion-reduce:transition-none duration-500',
-      showProject ? 'opacity-1' : 'opacity-0'
-    ]"
-  >
+  <div class="flex flex-col transition-opacity motion-reduce:transition-none duration-500 opacity-1">
     <!-- Centered Images -->
     <div class="flex flex-col items-center space-y-4 pb-4">
       <img
         v-if="project.imageLink1"
-        @load="showProject = true"
         :src="getImageUrl(project.imageLink1)"
         class="shadow-md max-w-full rounded"
         loading="lazy"
@@ -64,9 +58,6 @@ import { LinkIcon, ArrowTopRightOnSquareIcon } from '@heroicons/vue/24/solid';
 const props = defineProps({
     project: Object
 })
-
-// Static Images
-const showProject = ref(false)
 
 let getImageUrl = (path) => {
   return new URL(`../assets/${path}`, import.meta.url).href

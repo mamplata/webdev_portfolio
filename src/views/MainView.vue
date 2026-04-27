@@ -1,7 +1,7 @@
 <template>
 	<SplashView v-if="showingSplash" />
 
-	<div v-show="!showingSplash"
+	<div v-if="!showingSplash"
 		class="min-h-screen overscroll-contain bg-white dark:bg-slate-900 dark:text-slate-300 text-base md:text-xl">
 		<Navbar :show-transition="showLanding" :dark-mode-active="darkModeActive" @toggle-dark="toggleDark" />
 
