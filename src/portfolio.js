@@ -22,7 +22,7 @@ const splashScreen = true // recommended: for best behavior after refresh
 const greeting = {
     intro: "Hello 👋, my name is",
     name: "Kyle Deejay C. Mamplata",
-    message: "Aspiring Backend Developer & Database Administrator focused on building full-stack web applications and managing structured data. Skilled in Laravel, Vue.js, Java, and SQL, with hands-on experience in API development, frontend integration, and database design. Passionate about clean code, data reliability, and continuous learning.",
+    message: "Junior System Developer focused on backend systems, API integrations, and client-facing software solutions. Experienced with Laravel, CodeIgniter, PHP, Vue.js, Jquery, MySQL, Java, Python, C#, Tailwind, Bootstrap, and Express.js. Passionate about clean and system design, I build reliable applications that support real-world operations and deliver strong data consistency.",
     basedLocation: "Cabuyao, Laguna, Philippines",
     resumeLink: "https://drive.google.com/file/d/19df5uhG06Upr2rxqst_DBJb0VxeAaf1x/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
@@ -41,7 +41,8 @@ const socialMediaLinks = {
 // --- 😎 About Section ---
 const about = {
     autobiography: [
-        "I am an aspiring backend developer and database administrator with experience in full-stack development using Laravel, Vue.js, Java, and SQL-based systems. During my internship at Pamantasan ng Cabuyao, I contributed to both frontend interfaces and backend API development, including database design and optimization. I hold a TESDA NC II certification in Computer System Servicing and am passionate about building reliable, data-driven systems."
+        "I am a Junior System Developer with practical experience building and maintaining live production systems for healthcare and enterprise operations. At Uplink Integrated Solution Inc., I work on backend development, API integrations, and data reliability for clinical workflows.",
+        "I also have a strong background in full-stack development using Laravel, Vue.js, Java, and SQL. I hold a TESDA NC II certification in Computer System Servicing, and I enjoy solving real-world problems through clean, scalable system design."
     ], // Separated items are paragraphs
     techStack: [
         "PHP",
@@ -190,7 +191,7 @@ const contact = {
     externalLink: {
         shortTitle: "Get in Touch",
         note: [
-            "Actively seeking full-time software development positions as a June 2025 graduate.",
+            "Currently working as a Junior System Developer and open to collaboration, freelance inquiries, or future opportunities. Email is the best way to reach me.",
         ], // paragraph breaks will be entered after each item,
         link: {
             email: "deejaymamplata29@gmail.com", // email takes precedance
