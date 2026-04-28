@@ -24,7 +24,7 @@ const greeting = {
     name: "Kyle Deejay C. Mamplata",
     message: "Aspiring Backend Developer & Database Administrator focused on building full-stack web applications and managing structured data. Skilled in Laravel, Vue.js, Java, and SQL, with hands-on experience in API development, frontend integration, and database design. Passionate about clean code, data reliability, and continuous learning.",
     basedLocation: "Cabuyao, Laguna, Philippines",
-    resumeLink: "https://drive.google.com/file/d/1OOgYfDJ4_A_wGbwQ8BFU1Oq9ahYLRPWV/view?usp=sharing", // recommended: google drive file share link (change to "anyone on the internet can view")
+    resumeLink: "https://drive.google.com/file/d/19df5uhG06Upr2rxqst_DBJb0VxeAaf1x/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
         link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
         custom: true // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
@@ -68,11 +68,13 @@ const experiences = [
         },
         duration: "October 2025 - Present",
         bulletPoints: [
-            "Develop and maintain a production healthcare information system used across multiple health facilities in Muntinlupa City.",
-            "Build and enhance backend services for patient profiling, consultation workflows, and medicine inventory management.",
-            "Implement modular healthcare program features such as animal bite treatment and palliative care for the version 2 upgrade.",
-            "Ensure business logic aligns with real-world clinical and operational processes while improving data consistency across modules.",
-            "Handle API integrations and external system connectivity, including PhilHealth services and HCPN referral workflows."
+            "Develop and maintain a production healthcare information system actively used across multiple health facilities in Muntinlupa City, ensuring reliability and uptime in a live environment with real users.",
+            "Build and enhance backend services for patient profiling, consultation workflows, and medicine inventory management, focusing on data accuracy and operational efficiency.",
+            "Contribute to the ongoing version 2 upgrade by implementing modular healthcare program features (e.g., animal bite treatment, palliative care), ensuring business logic aligns with real-world clinical and operational processes.",
+            "Debug issues, improve system performance, and maintain data consistency across modules to support uninterrupted daily operations.",
+            "Handle API integrations and external system connectivity, including integration with PhilHealth services for healthcare processing and reporting.",
+            "Implement HCPN referral workflows to support coordination with external hospitals and facilitate patient transfer processes.",
+            "Regularly collaborate with team members to refine system requirements, deliver new features, and maintain system reliability under active production conditions."
         ],
         hashtags: [
             "Laravel",
