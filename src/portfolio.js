@@ -24,7 +24,7 @@ const greeting = {
     name: "Kyle Deejay C. Mamplata",
     message: "Junior System Developer focused on backend systems, API integrations, and client-facing software solutions. Experienced with Laravel, CodeIgniter, PHP, Vue.js, Jquery, MySQL, Java, Python, C#, Tailwind, Bootstrap, and Express.js. Passionate about clean and system design, I build reliable applications that support real-world operations and deliver strong data consistency.",
     basedLocation: "Cabuyao, Laguna, Philippines",
-    resumeLink: "https://drive.google.com/file/d/19df5uhG06Upr2rxqst_DBJb0VxeAaf1x/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
+    resumeLink: "https://drive.google.com/file/d/1E0bCNCPYrVd5PVeN2lI6jjneJYTsXhHl/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
         link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
         custom: true // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
