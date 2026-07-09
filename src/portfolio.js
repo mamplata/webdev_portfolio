@@ -111,8 +111,7 @@ const portfolio = {
         "Implemented CRUD operations and persistence using SQLite.",
         "Used unit testing to validate expected behavior and strengthen maintainability.",
         "Practiced structuring a small but complete application around clean data handling."
-      ],
-      imageLink: "images/library1.png"
+      ]
     }
   ],
   hmisCaseStudy: {
