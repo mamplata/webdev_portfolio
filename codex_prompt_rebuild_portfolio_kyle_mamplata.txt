@@ -1,0 +1,144 @@
+CODEX PROMPT — REBUILD MY DEVELOPER PORTFOLIO
+
+You are helping rebuild my developer portfolio into a professional, recruiter-friendly, and client-facing portfolio website.
+
+Use the file/context named `portfolio_context_kyle_mamplata.txt` as the source of truth about my background, target roles, experience, skills, and projects.
+
+Current goal:
+Rework the portfolio so it no longer looks like only a fresh-graduate/student project gallery. It should present me as a junior software developer with real production experience in healthcare information systems, backend development, SQL/database work, deployment support, production troubleshooting, and workflow automation.
+
+Primary target roles:
+- Junior Backend Developer
+- Laravel/PHP Developer
+- Web Developer
+- Junior Software Developer
+
+Secondary target roles:
+- Junior C# Developer
+- Junior .NET Developer
+- RPA Developer
+- Automation Developer
+
+Important positioning:
+My strongest current experience is in PHP, Laravel, CodeIgniter 3, MySQL, healthcare systems, SQL/database work, reporting, workflow validation, production support, Linux/Nginx deployment support, and client coordination.
+I also have C#, Selenium, Playwright, Java, Python, and automation practice, but do not overclaim professional .NET, ASP.NET Core, Entity Framework, UiPath, or professional RPA experience unless those projects actually exist in the codebase.
+
+Your task:
+1. Inspect the existing portfolio codebase.
+2. Identify the framework/structure being used.
+3. Rebuild or refactor the portfolio content and layout using the existing stack unless a simple static rebuild is more appropriate.
+4. Keep the website fast, clean, responsive, and readable.
+5. Make the content suitable for HR, recruiters, technical interviewers, and direct clients.
+6. Prioritize professional case studies over generic project cards.
+
+Required site sections:
+1. Hero
+   - Name: Kyle Deejay C. Mamplata
+   - Main title: Junior Backend / Laravel PHP Developer
+   - Supporting line: Production healthcare systems, SQL-driven workflows, API integration, and automation-oriented development.
+   - Buttons: View Case Studies, Download Resume, GitHub
+
+2. About
+   - Concise summary using the context file.
+   - Emphasize production system experience, backend development, database work, workflow validation, and deployment support.
+
+3. Featured Case Studies
+   Required cards/case studies:
+   - Healthcare Information Management System
+   - ITAP School Entrance System
+   - AgroConnect Cabuyao / AgroConnect v2
+   - Java Library CLI
+   Optional:
+   - Browser Automation Practice, only if there is enough presentable content.
+
+4. Healthcare Information Management System Case Study
+   This should be the strongest section.
+   Must include:
+   - Overview
+   - My role
+   - Tech stack
+   - Key contributions
+   - Engineering challenges
+   - Confidentiality note
+   Do not expose confidential data, patient data, internal screenshots, private code, private URLs, or credentials.
+   Use high-level descriptions only.
+
+5. Experience
+   - Junior System Developer, Uplink Integrated Solutions Inc., Oct 2025 – Present
+   - Programming Intern, MIS Dept., Pamantasan ng Cabuyao, Jan 2025 – Apr 2025
+
+6. Skills
+   Group skills into:
+   - Languages
+   - Backend
+   - Frontend
+   - Databases
+   - Tools and Platforms
+   - Automation
+
+7. Education and Certifications
+   - BS Information Technology, Pamantasan ng Cabuyao, 2021–2025
+   - Dean’s Lister
+   - DICT ICT Proficiency Diagnostic Examination Passer
+   - TESDA NC II – Computer Systems Servicing
+   - Cisco NetAcad JavaScript Essentials 1 & 2
+   - Cisco NetAcad Python Essentials 1
+   - Google Analytics
+
+8. Contact
+   - Email: deejaymamplata29@gmail.com
+   - GitHub: https://github.com/mamplata
+   - Portfolio: https://mamplata.github.io/webdev_portfolio/
+   - Location: Cabuyao, Laguna, Philippines
+
+Content requirements:
+- Rewrite the copy to sound credible, concise, and professional.
+- Use specific backend/database/workflow language.
+- Avoid generic phrases like “passionate developer” unless supported by concrete details.
+- Avoid exaggeration.
+- Use bullet points where helpful.
+- Use project tags for technologies.
+- Include a confidentiality note for HMIS.
+
+Design requirements:
+- Clean, modern, mobile-responsive.
+- Recruiter-friendly scanning.
+- Good spacing and contrast.
+- Avoid excessive animation.
+- Avoid heavy dependencies unless already used.
+- Make it work well on GitHub Pages.
+- Keep performance good.
+- Use accessible HTML where possible.
+- Use semantic sections and headings.
+- Ensure links are correct and visible.
+
+SEO / metadata:
+Update page title, description, and relevant metadata using:
+“Kyle Deejay Mamplata — Junior Backend / Laravel PHP Developer”
+Description should mention:
+“Junior software developer based in Cabuyao, Laguna with experience in healthcare information systems, PHP, Laravel, CodeIgniter, MySQL, SQL, API integration, and production support.”
+
+Important constraints:
+- Do not invent employers, projects, certifications, or technologies.
+- Do not claim professional ASP.NET Core, Entity Framework, UiPath, or .NET production experience unless visible in the repository.
+- Do not expose confidential HMIS details.
+- Do not remove all older projects; instead, demote less relevant projects and make the strongest ones more prominent.
+- Keep the portfolio truthful and interview-safe.
+
+Expected output:
+- Updated portfolio code.
+- Clean and maintainable structure.
+- A short summary of what was changed.
+- A list of any assumptions made.
+- A list of recommended next improvements, especially if a new C#/Selenium project should be added later.
+
+Before editing:
+Read the existing files and briefly summarize the current structure.
+
+After editing:
+Verify:
+- The site builds or runs locally if applicable.
+- Links work.
+- The portfolio is responsive.
+- The wording does not overclaim.
+- HMIS content does not reveal sensitive or confidential information.

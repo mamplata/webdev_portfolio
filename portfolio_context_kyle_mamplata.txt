@@ -1,0 +1,300 @@
+KYLE DEEJAY C. MAMPLATA — PORTFOLIO REBUILD CONTEXT
+
+Purpose
+This context is for rebuilding my developer portfolio into a more professional, ATS/recruiter-friendly and client-facing portfolio. The portfolio should not feel like a fresh-graduate project gallery only. It should present me as a junior software developer with real production experience in healthcare systems, backend development, SQL/database work, system maintenance, deployment support, and workflow automation.
+
+Personal Information
+Name: Kyle Deejay C. Mamplata
+Location: Cabuyao, Laguna, Philippines
+Email: deejaymamplata29@gmail.com
+Phone: 0938 587 3091
+Portfolio URL: https://mamplata.github.io/webdev_portfolio/
+GitHub: https://github.com/mamplata
+
+Target Roles
+Primary target:
+- Junior Backend Developer
+- Laravel/PHP Developer
+- Web Developer
+- Junior Software Developer
+
+Secondary target:
+- Junior C# Developer
+- Junior .NET Developer
+- RPA Developer
+- Automation Developer
+
+Positioning
+I am a junior software developer with hands-on experience developing, maintaining, deploying, and supporting production information systems. My strongest experience is in healthcare information systems, backend development, SQL, database-driven modules, reporting, workflow validation, API integration, and production support. I also have interest and practice in C#, Selenium, Playwright, and automation.
+
+Current Experience
+Company: Uplink Integrated Solutions Inc.
+Role: Junior System Developer
+Project: Muntinlupa CHO HMIS / Healthcare Information Management System
+Period: October 2025 – Present
+
+Core responsibilities:
+- Develop and maintain healthcare information system modules.
+- Support production deployment, server administration, troubleshooting, and maintenance.
+- Work with PHP, CodeIgniter 3, Laravel, MySQL, JavaScript, Linux, Nginx, Git, DataTables, Bootstrap/Tailwind, Alpine.js/jQuery.
+- Build database-driven features, reports, validations, and healthcare workflows.
+- Coordinate with clients and users to gather requirements, clarify workflows, provide progress updates, and implement improvements.
+
+Important HMIS Work and Contributions
+Describe these without exposing confidential code, patient data, credentials, or private internal details.
+
+1. Healthcare Information Management System
+A production healthcare platform supporting patient profiling, vital signs, admissions, medical consultations, inventory, laboratory workflows, referrals, reports, PhilHealth-related workflows, and special health programs.
+
+2. PhilHealth Konsulta / EMR-related work
+- Assisted with PhilHealth Konsulta integration and EMR-related workflows.
+- Worked on validation, XML/API-related processing, reporting requirements, and compliance-driven healthcare data workflows.
+
+3. HCPN Referral System
+- Designed or contributed to a two-way referral workflow between healthcare facilities.
+- Supported referral creation, reply slip processing, return workflows, patient transfer data, status handling, and audit-oriented process tracking.
+
+4. Healthcare Modules and Reports
+Built or maintained modules for programs such as:
+- Palliative Care
+- HIV
+- Animal Bite Treatment
+- Dental Care
+- Maternal Care
+- Prenatal/Postpartum
+- Child Care
+- Family Planning
+- Laboratory services
+- Inventory and stock-related workflows
+- Reports and exports
+
+5. Database and Backend Work
+- Created and optimized SQL queries.
+- Added and modified database structures.
+- Worked on migrations and data backfills.
+- Implemented facility-aware filtering and reporting.
+- Troubleshot application and database issues.
+- Supported production bug fixes and deployments.
+
+Internship Experience
+Organization: MIS Department, Pamantasan ng Cabuyao
+Role: Programming Intern
+Period: January 2025 – April 2025
+Project: ITAP — School Entrance System
+Tech stack: Laravel, Vue.js, Node.js, MySQL
+Contributions:
+- Built a school entrance system.
+- Led backend API design.
+- Worked on database modeling.
+- Implemented role-based access control.
+- Used Git branching, pull requests, code reviews, Trello, and Agile sprint practices.
+
+Education
+Bachelor of Science in Information Technology
+Pamantasan ng Cabuyao / University of Cabuyao
+2021 – 2025
+Dean’s Lister
+DICT ICT Proficiency Diagnostic Examination Passer
+
+Certifications and Training
+- TESDA NC II – Computer Systems Servicing
+- Cisco NetAcad – JavaScript Essentials 1
+- Cisco NetAcad – JavaScript Essentials 2
+- Cisco NetAcad – Python Essentials 1
+- Google Analytics certification
+
+Technical Skills
+Languages:
+- PHP
+- JavaScript
+- SQL
+- Java
+- Python
+- C#
+
+Frameworks and Tools:
+- Laravel
+- CodeIgniter 3
+- Node.js
+- Express.js
+- Vue.js
+- Alpine.js
+- jQuery
+- Tailwind CSS
+- Bootstrap
+- DataTables
+- Django
+- Selenium
+- Playwright
+
+Databases:
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+
+Platforms and Tools:
+- Git
+- GitHub
+- Docker
+- Linux
+- Nginx
+- Visual Studio Code
+- Trello
+- MS Office
+
+Development Concepts:
+- Backend development
+- REST APIs
+- MVC
+- OOP
+- CRUD
+- Role-based access control
+- SQL optimization
+- Database design
+- Indexing
+- Production support
+- Deployment support
+- Troubleshooting
+- Reporting
+- Workflow automation
+- Data validation
+
+Projects to Feature
+
+1. Healthcare Information Management System — Professional Case Study
+This should be the main portfolio case study.
+Important: Do not expose confidential source code, patient data, private URLs, credentials, database dumps, or internal screenshots with sensitive data.
+Suggested sections:
+- Overview
+- Problem domain
+- My role
+- Tech stack
+- Key modules contributed
+- Engineering challenges
+- Selected contributions
+- What I learned
+- Confidentiality note
+
+Suggested wording:
+“Production healthcare platform supporting patient profiling, consultations, laboratory services, inventory, referrals, reports, and public-health program workflows. My role focused on backend development, SQL/database work, workflow validation, reporting, deployment support, and production troubleshooting.”
+
+2. ITAP School Entrance System — Internship Case Study
+Highlight backend API design, database modeling, role-based access control, Laravel, Vue.js, Node.js, MySQL, Git, and Agile collaboration.
+
+3. AgroConnect Cabuyao — Capstone Project
+Tech stack: Laravel, MySQL, jQuery, Leaflet.js, Weather API
+Highlight:
+- Agricultural information system
+- Seasonal data visualization
+- Weather API integration
+- Crop and seasonal data management
+- Location-based features
+
+4. AgroConnect v2 — Personal Rebuild
+Tech stack: Laravel Breeze, Blade, MySQL, WeatherAPI
+Highlight:
+- Rebuilt using newer Laravel structure
+- Authentication
+- Improved UI
+- Improved database structure
+- Weather integration
+
+5. Java Library CLI — Personal Project
+Tech stack: Java, SQLite, JUnit 5
+Highlight:
+- CRUD operations
+- SQLite persistence
+- Unit testing
+- Git version control
+
+6. Browser Automation Practice — Optional / Future C#-RPA Case Study
+Tech stack: C#, Selenium, Playwright
+Highlight:
+- Browser navigation
+- Element interaction
+- Form processing
+- Repeatable web-based task automation
+- Workflow automation practice
+This should only be shown if the project is presentable enough. Otherwise, keep it as “in progress” or do not feature it prominently.
+
+Portfolio Strategy
+The portfolio should prioritize:
+1. Professional experience and case studies.
+2. Backend/database problem-solving.
+3. Real system maintenance and production support.
+4. Laravel/PHP backend credibility.
+5. Transferable automation skills for C# / RPA roles.
+
+The portfolio should avoid:
+- Looking like a generic student portfolio.
+- Too many small school repositories.
+- Overclaiming C#/.NET or RPA production experience.
+- Claiming ASP.NET Core, Entity Framework, UiPath, or professional .NET experience unless there is a real project.
+- Exposing confidential HMIS data or client-sensitive details.
+- Overly flashy design that hurts readability or recruiter scanning.
+
+Preferred Site Structure
+Recommended pages or sections:
+1. Hero
+   - Name
+   - Target title: Junior Backend Developer / Laravel PHP Developer
+   - Secondary phrase: Healthcare systems, SQL, workflow automation, and production support
+   - CTA buttons: View Projects, Download Resume, GitHub
+
+2. About
+   - Short professional summary
+   - Mention production healthcare systems, backend development, SQL/database work, API integration, Linux/Nginx support, and client coordination.
+
+3. Featured Case Studies
+   - Healthcare Information Management System
+   - ITAP School Entrance System
+   - AgroConnect / AgroConnect v2
+   - Java Library CLI or Browser Automation Practice
+
+4. Professional Experience
+   - Uplink Integrated Solutions Inc. — Junior System Developer
+   - MIS Department, Pamantasan ng Cabuyao — Programming Intern
+
+5. Skills
+   Group by category:
+   - Backend
+   - Frontend
+   - Database
+   - Tools and Platforms
+   - Automation
+
+6. Certifications and Education
+
+7. Contact
+   - Email
+   - GitHub
+   - Portfolio
+   - Location
+
+Tone
+Use a professional but direct tone. Avoid exaggerated claims. Use language suitable for HR and technical recruiters. Make the text scannable, specific, and credible.
+
+Design Direction
+- Clean, modern, readable.
+- ATS/recruiter-friendly language.
+- Mobile-responsive.
+- Fast-loading.
+- No excessive animations.
+- Good contrast.
+- Use cards for case studies.
+- Use concise tags for tech stack.
+- Prioritize content over decoration.
+
+SEO / Metadata
+Use keywords naturally:
+Junior Backend Developer, Laravel Developer, PHP Developer, Junior Software Developer, CodeIgniter, Laravel, MySQL, SQL, REST API, healthcare information system, production support, workflow automation, data validation, Linux, Nginx, Git, C#, Selenium, Playwright.
+
+Important Confidentiality Rule
+For HMIS and healthcare-related work:
+- Do not show patient information.
+- Do not expose internal system URLs.
+- Do not include credentials.
+- Do not include private code.
+- Do not show real patient screenshots.
+- Use mock screenshots, diagrams, or high-level descriptions if needed.
