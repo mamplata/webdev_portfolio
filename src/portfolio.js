@@ -187,6 +187,24 @@ const portfolio = {
           href: "https://github.com/mamplata/livewire-reverb"
         }
       ]
+    },
+    {
+      title: "Selenium Practice App",
+      label: "Personal Project",
+      summary:
+        "A .NET 8 Selenium demo project that automates a public practice website through a full browser workflow, built to strengthen practical UI automation skills.",
+      stack: [".NET 8", "C#", "Selenium WebDriver", "Chromium"],
+      highlights: [
+        "Automates a realistic browser flow including login, dynamic controls, JavaScript alerts, multiple windows, and file upload.",
+        "Built as a clean practice project for learning element targeting, waits, browser interactions, and end-to-end automation flow structure.",
+        "Supports both visible browser runs and headless execution for flexible testing and demonstration."
+      ],
+      links: [
+        {
+          label: "GitHub",
+          href: "https://github.com/mamplata/selenium-app"
+        }
+      ]
     }
   ],
   hmisCaseStudy: {
