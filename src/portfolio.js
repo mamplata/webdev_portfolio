@@ -57,6 +57,48 @@ const portfolio = {
         "This case study is intentionally high level. It excludes patient data, internal code, private URLs, credentials, and confidential client materials."
     },
     {
+      title: "Water Laboratory Information System",
+      label: "Current Job • Production Internal System",
+      summary:
+        "Internal production system supporting water laboratory operations, laboratory workflows, reporting, validation, PDF generation, and ongoing maintenance.",
+      stack: ["PHP", "Laravel", "MySQL", "JavaScript"],
+      highlights: [
+        "Worked on features supporting water laboratory operational workflows and day-to-day laboratory processing.",
+        "Built and maintained reporting, validation rules, and PDF generation for internal laboratory use.",
+        "Handled ongoing maintenance and production support within a live Laravel and MySQL environment."
+      ],
+      confidentiality:
+        "This case study is intentionally high level. It excludes internal workflows, private URLs, credentials, and confidential client materials."
+    },
+    {
+      title: "Sanitary Permit Management System",
+      label: "Current Job • Production Internal System",
+      summary:
+        "Internal production system for sanitary permits, inspections, business process workflows, and operational reporting.",
+      stack: ["PHP", "Laravel", "MySQL", "JavaScript"],
+      highlights: [
+        "Developed and maintained modules related to sanitary permit processing and inspections.",
+        "Supported business workflow handling and reporting features used in daily operations.",
+        "Contributed production fixes and maintenance work in a Laravel and MySQL-based system."
+      ],
+      confidentiality:
+        "This case study is intentionally high level. It excludes internal workflows, private URLs, credentials, and confidential client materials."
+    },
+    {
+      title: "Appointment & Queue Management System",
+      label: "Current Job • Production Internal System",
+      summary:
+        "Internal production system for online appointment booking and kiosk-based queuing, including scheduling, tracking, and administrative workflow support.",
+      stack: ["PHP", "Laravel", "MySQL", "JavaScript"],
+      highlights: [
+        "Built and enhanced appointment scheduling, QR code generation, and queue management features.",
+        "Implemented facility-specific scheduling, status tracking, and administrative dashboard improvements.",
+        "Supported ongoing maintenance and workflow enhancements in a live Laravel and MySQL environment."
+      ],
+      confidentiality:
+        "This case study is intentionally high level. It excludes internal workflows, private URLs, credentials, and confidential client materials."
+    },
+    {
       title: "ITAP School Entrance System",
       label: "Internship Case Study",
       summary:
@@ -70,26 +112,16 @@ const portfolio = {
       ]
     },
     {
-      title: "AgroConnect Cabuyao / AgroConnect v2",
-      label: "Capstone + Rebuild",
+      title: "AgroConnect Cabuyao",
+      label: "Capstone Project",
       summary:
-        "Agricultural information system evolving from a capstone into a more modern Laravel rebuild focused on data presentation, weather integration, and maintainability.",
-      stack: [
-        "Laravel",
-        "Laravel Breeze",
-        "Blade",
-        "MySQL",
-        "jQuery",
-        "Leaflet.js",
-        "Weather API",
-        "Bootstrap"
-      ],
+        "Agricultural information system developed as a capstone project, focused on crop and seasonal data management, location-based features, and weather-aware information views.",
+      stack: ["Laravel", "MySQL", "jQuery", "Leaflet.js", "Weather API", "Bootstrap"],
       highlights: [
-        "Built crop and seasonal data workflows with location-based visualization features.",
-        "Integrated weather data and geospatial views to support agricultural information use cases.",
-        "Reworked the project into a cleaner Laravel structure with improved authentication and database organization."
+        "Built an agricultural information system centered on crop and seasonal data management.",
+        "Integrated location-based features and geospatial visualization using Leaflet.js.",
+        "Added weather API integration to support more relevant agricultural data presentation."
       ],
-      imageLink: "images/agroconnectv2.png",
       links: [
         {
           label: "GitHub",
@@ -98,6 +130,25 @@ const portfolio = {
         {
           label: "User Manual",
           href: "https://drive.google.com/file/d/1rrAnNlee9LOPIDmi49w5lxd8RCnxGT99/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      title: "AgroConnect v2",
+      label: "Personal Rebuild",
+      summary:
+        "A later rebuild of AgroConnect using a newer Laravel structure, with improved authentication, cleaner UI, and a more organized database design.",
+      stack: ["Laravel Breeze", "Blade", "MySQL", "WeatherAPI", "Bootstrap"],
+      highlights: [
+        "Rebuilt the project using a newer Laravel structure for better maintainability.",
+        "Improved authentication flow and overall interface presentation.",
+        "Refined the database structure while keeping weather-related functionality in the newer version."
+      ],
+      imageLink: "images/agroconnectv2.png",
+      links: [
+        {
+          label: "GitHub",
+          href: "https://github.com/mamplata/agroconnect_appv2"
         }
       ]
     },
@@ -111,6 +162,30 @@ const portfolio = {
         "Implemented CRUD operations and persistence using SQLite.",
         "Used unit testing to validate expected behavior and strengthen maintainability.",
         "Practiced structuring a small but complete application around clean data handling."
+      ],
+      links: [
+        {
+          label: "GitHub",
+          href: "https://github.com/mamplata/java-library-cli"
+        }
+      ]
+    },
+    {
+      title: "Livewire Reverb",
+      label: "Personal Project",
+      summary:
+        "A Laravel experiment project exploring Livewire and Reverb for more interactive, real-time application behavior.",
+      stack: ["PHP", "Laravel", "Livewire", "Reverb", "MySQL", "JavaScript"],
+      highlights: [
+        "Built as a hands-on project for learning Laravel Livewire and Reverb integration.",
+        "Focused on interactive application behavior using Laravel-based real-time features.",
+        "Strengthened practical experience with modern Laravel tooling beyond standard CRUD workflows."
+      ],
+      links: [
+        {
+          label: "GitHub",
+          href: "https://github.com/mamplata/livewire-reverb"
+        }
       ]
     }
   ],
@@ -118,7 +193,7 @@ const portfolio = {
     overview:
       "I currently work on a production healthcare information system used for day-to-day operational and clinical workflows. The platform covers patient profiling, admissions, consultations, laboratory services, inventory, referrals, reports, and special public-health programs.",
     role:
-      "As a Junior System Developer, I contribute to backend development, SQL and database work, workflow validation, reporting, deployment support, and production troubleshooting. I also coordinate with users and clients to clarify requirements and improve workflows based on actual operational use.",
+      "As a Junior System Developer, I contribute to backend development, SQL and database work, workflow validation, reporting, deployment support, and production troubleshooting. My current production work includes healthcare, water laboratory, sanitary permit, and appointment or queue management systems. I also coordinate with users and clients to clarify requirements and improve workflows based on actual operational use.",
     stack: [
       "PHP",
       "CodeIgniter 3",
@@ -158,6 +233,7 @@ const portfolio = {
         "Developing, maintaining, and supporting a production healthcare information system with a focus on backend modules, database workflows, reporting, and live issue resolution.",
       bullets: [
         "Build and maintain healthcare system modules used in real operational workflows.",
+        "Develop and support internal Laravel and MySQL systems for water laboratory operations, sanitary permits, and appointment or queue management.",
         "Work on backend logic, SQL queries, validations, reports, and data quality improvements.",
         "Support production troubleshooting, deployment-related tasks, and server-side maintenance.",
         "Coordinate with clients and users to clarify workflow requirements and implement changes."
