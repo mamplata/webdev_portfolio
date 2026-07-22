@@ -144,7 +144,6 @@ const portfolio = {
         "Improved authentication flow and overall interface presentation.",
         "Refined the database structure while keeping weather-related functionality in the newer version."
       ],
-      imageLink: "images/agroconnectv2.png",
       links: [
         {
           label: "GitHub",
